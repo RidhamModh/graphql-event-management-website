@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "testuser",
+        "MONGO_PASSWORD": "Jay1998",
+        "MONGO_DB": "",
+        "MONGO_URI":"mongodb+srv://testuser:Jay1998@cluster0.c1w9rbn.mongodb.net/?retryWrites=true&w=majority"
+    }
+}

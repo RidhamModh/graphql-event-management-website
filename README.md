@@ -1,2 +1,14 @@
-# graphql-event-management-website
-An event booking web application which allows user to register, login, create their own events, book an event and cancel their bookings
+# GraphQL + React Event Booking API
+
+# Usage
+Choose the right branch in this repository to get the code for the different parts of the series.
+
+Install all dependencies
+```sh
+npm install
+```
+
+Run the server
+```sh
+npm start
+```
